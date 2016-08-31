@@ -1,0 +1,38 @@
+body {
+  background-color: black !important;
+}
+.quotes {
+  border: 2px solid black;
+  text-align: center;
+  background-color: steelblue;
+  color: white;
+  font-family: fantasy;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 5px auto;
+  width: 75vw;
+  font-weight: bold;
+  font-size: 1.5em;
+
+}
+
+.main-nav {
+  background-color: steelblue;
+  text-align: center;
+  color: black;
+  font-family: fantasy;
+  font-weight: bold;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 10px auto;
+}
+
+.filter {
+  /*padding-top: 15px;*/
+  font-size: 1.5em;
+
+}
+
+input {
+  color: white;
+}
